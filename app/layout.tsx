@@ -18,7 +18,7 @@ const instrumentSerif = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "Whitepaper — Lo más importante, cada mañana.",
+  title: "Whitepaper",
   description:
     "Enviamos a tu correo las noticias de negocios más importantes del día, en un formato fácil de leer.",
   openGraph: {
